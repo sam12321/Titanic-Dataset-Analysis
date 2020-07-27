@@ -5,10 +5,8 @@ The main goal of our project is to first analyse the dataset and perform feature
 which of the people have survived in the test dataset
 # Dataset
 there are two datasets train and test datasets.
-Train Dataset
-------
+## Train Dataset
 contains 12 columns which contain infromation about the passengers and 891 rows
-Test Dataset
-------
+## Test Dataset
 contains 11 columns which contain infromation about the passengers and 419 rows
 Test Dataset
