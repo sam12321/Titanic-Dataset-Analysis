@@ -9,6 +9,6 @@ Train Dataset
 ---------------
 contains 12 columns which contain infromation about the passengers and 891 rows
 Test Dataset
----------------
+------
 contains 11 columns which contain infromation about the passengers and 419 rows
 Test Dataset
