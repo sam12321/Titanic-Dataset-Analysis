@@ -6,7 +6,7 @@ which of the people have survived in the test dataset
 # Dataset
 there are two datasets train and test datasets.
 Train Dataset
----------------
+------
 contains 12 columns which contain infromation about the passengers and 891 rows
 Test Dataset
 ------
