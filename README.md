@@ -5,7 +5,7 @@ The main goal of our project is to first analyse the dataset and perform feature
 which of the people have survived in the test dataset
 # Dataset
 - there are two datasets train and test datasets. 
-= You can download these datasets from: https://www.kaggle.com/c/titanic/data
+- You can download these datasets from: https://www.kaggle.com/c/titanic/data
 ## Train Dataset
 contains 12 columns which contain infromation about the passengers and 891 rows
 ## Test Dataset
