@@ -1,5 +1,5 @@
 # Titanic-Dataset-Analysis
-This project deals with the analysis and prediction of the famous titanic dataset using machine learning models
+This project deals with the analysis and prediction of the famous titanic dataset using machine learning models.
 # Goal
 The main goal of our project is to first analyse the dataset and perform feature engineering and then create and train different Machine learning models to predict 
 which of the people have survived in the test dataset
